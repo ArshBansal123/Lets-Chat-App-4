@@ -1,0 +1,26 @@
+body{
+    background: url("bg_final\ \(5\).png");
+}
+#h2{
+    font-family: Arial;
+    color:rgb(18, 238, 238)
+}
+#h4{
+    font-family: Arial;
+    color:#727a7a;
+    
+}
+#user_name{
+    border: none;
+    background-color: rgba(0, 255, 255, 0);
+    margin-left: 60px;
+}
+#login_button{
+    background-image: url("gradient_pink_purple.jpg");
+    border-radius: 10px;
+    width: 200px;
+    height: 25px;
+    font-family: arial;
+    font-size: 30;
+    background-position:center;
+}
